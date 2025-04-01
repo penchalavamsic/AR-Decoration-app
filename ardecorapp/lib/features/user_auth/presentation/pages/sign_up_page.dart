@@ -31,9 +31,11 @@ class _SignUpPageState extends State<SignUpPage> {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
+        backgroundColor: Colors.black,
         automaticallyImplyLeading: false,
-        title: Text("SignUp"),
+        title: Text("SignUp", style: TextStyle(color: Colors.white),),
       ),
+
       body: Center(
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 15),
@@ -41,7 +43,7 @@ class _SignUpPageState extends State<SignUpPage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Sign Up",
+                "Create an account",
                 style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold, color: Colors.white),
               ),
               SizedBox(height: 30),

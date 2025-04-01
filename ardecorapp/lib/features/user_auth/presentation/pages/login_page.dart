@@ -30,7 +30,9 @@ class _LoginPageState extends State<LoginPage> {
       backgroundColor: Colors.black,
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        title: Text("Login"),
+        title: Text("Login", style: TextStyle(color: Colors.white)),
+        backgroundColor: Colors.transparent,
+        elevation: 0,
       ),
       body: Center(
         child: Padding(
@@ -39,11 +41,10 @@ class _LoginPageState extends State<LoginPage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Login",
-
-                style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold, color: Colors.blue),
+                "Welcome Back",
+                style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold, color: Colors.white),
               ),
-              SizedBox(height: 30),
+              SizedBox(height: 20),
               FormContainerWidget(
                 controller: _emailController,
                 hintText: "Email",
@@ -82,8 +83,10 @@ class _LoginPageState extends State<LoginPage> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text("Don't have an account?",
-                  style: TextStyle(color: Colors.white),),
+                  Text(
+                    "Don't have an account?",
+                    style: TextStyle(color: Colors.white),
+                  ),
                   SizedBox(width: 5),
                   GestureDetector(
                     onTap: () {
