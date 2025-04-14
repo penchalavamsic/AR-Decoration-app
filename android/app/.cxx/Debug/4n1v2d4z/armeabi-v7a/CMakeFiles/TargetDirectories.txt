@@ -1,0 +1,2 @@
+C:/Users/PENCHALA VAMSI/Downloads/AR-Decoration-app-master/AR-Decoration-app-master/ardecorapp/android/app/.cxx/Debug/4n1v2d4z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PENCHALA VAMSI/Downloads/AR-Decoration-app-master/AR-Decoration-app-master/ardecorapp/android/app/.cxx/Debug/4n1v2d4z/armeabi-v7a/CMakeFiles/rebuild_cache.dir

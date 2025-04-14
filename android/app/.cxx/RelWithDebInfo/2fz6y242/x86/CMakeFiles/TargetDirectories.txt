@@ -1,0 +1,2 @@
+E:/Projects/AR Decoration Project/Development/ardecorapp/android/app/.cxx/RelWithDebInfo/2fz6y242/x86/CMakeFiles/edit_cache.dir
+E:/Projects/AR Decoration Project/Development/ardecorapp/android/app/.cxx/RelWithDebInfo/2fz6y242/x86/CMakeFiles/rebuild_cache.dir

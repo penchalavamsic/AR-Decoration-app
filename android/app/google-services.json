@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911471710317",
+    "project_id": "ardecorapp-109ff",
+    "storage_bucket": "ardecorapp-109ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911471710317:android:d8697682cbeb85131baf64",
+        "android_client_info": {
+          "package_name": "com.example.ardecorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKo4_ZSs94dfuADA1JqUOSaMS6GNmsogg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
