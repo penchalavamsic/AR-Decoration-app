@@ -48,7 +48,12 @@ In the event decoration industry, clients typically struggle to imagine how thei
 
 ## 📷 Screenshots  
 
-
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/Real-time%20view.jpeg
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/categories.jpeg
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/home.jpeg
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/login.jpeg
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/product.jpeg
+https://github.com/penchalavamsic/ARdecor-app/blob/d53993d1ebeb9a58f098b5e6842efc231647cce1/sign-up.jpeg
 
 ---
 
