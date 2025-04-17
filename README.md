@@ -48,7 +48,7 @@ In the event decoration industry, clients typically struggle to imagine how thei
 
 ## 📷 Screenshots  
 
-*(Add app screenshots or AR placements here for visual clarity if available)*
+
 
 ---
 
@@ -101,9 +101,8 @@ If you have ideas to improve this project or want to add new features — feel f
 
 ## 📧 Contact  
 
-**Developer:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
-**GitHub:** [Your GitHub Profile URL]  
+**Developer:** Penchala Vamsi Chebrolu  
+**LinkedIn:** https://www.linkedin.com/in/penchala-vamsi-chebrolu-b61b811b2/  
 
 ---
 
